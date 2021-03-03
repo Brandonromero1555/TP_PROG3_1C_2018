@@ -2,8 +2,8 @@
 "la comanda" TP obligatorio
 
 #Atención!!!
-
-1- Hacer fork de este repo.
+"holaa pruueba de uso del git"
+1- Hacer fork de este repo.sd
 
 2-Las consultas se realizan por las issues de este repositorio.
 
